@@ -1,0 +1,2 @@
+vless://UUID1@ip1:443?security=tls&type=tcp#LIVE1
+vless://UUID2@ip2:443?security=tls&type=tcp#LIVE2
